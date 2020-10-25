@@ -48,3 +48,10 @@
   # Sistemas pessoais e sistemas de produtividade
   - Construídos para ajudar a *pessoas*. Exemplos: Calculadoras, despertadores, planilhas de dados financeiros, etc ...
   
+  # Métodos de processamento
+    - Online: Os dados são processados assim que ocorre uma transação 
+      - Clicou no 'botãozin' atualizou
+    - Em lote: Dados são coletados e processados em um período estabelecido
+      - Ex: Um 'timer' que roda de 5 em 5 horas calculando o saldo de horas de um colaborador levando em consideração as horas trabalhadas vs horas previstas
+    
+    
