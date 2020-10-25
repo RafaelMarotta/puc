@@ -1,2 +1,2 @@
 # puc
-Anotações que vão me passar de semestre
+Anotações que vão te passar de semestre
