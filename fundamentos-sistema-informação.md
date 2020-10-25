@@ -22,8 +22,8 @@
   # Tipos de sistemas níveis e funções
   
   - SAEs 
-         - São sistemas que estão voltados em auxiliar o topo da pirâmide
-         - Ajuda a obter respostas como: Onde a empresa vai estar daqui 1 ano? 
+        - São sistemas que estão voltados em auxiliar o topo da pirâmide
+        - Ajuda a obter respostas como: Onde a empresa vai estar daqui 1 ano? 
         - Ex: Previsão de resultados e planejamento pessoal.
   - SIGs  
         - Criados para dar suporte aos gerentes
