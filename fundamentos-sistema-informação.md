@@ -21,24 +21,25 @@
   
   # Tipos de sistemas níveis e funções
   
-  - *SAEs* 
+  - SAEs 
          - São sistemas que estão voltados em auxiliar o topo da pirâmide
          - Ajuda a obter respostas como: Onde a empresa vai estar daqui 1 ano? 
         - Ex: Previsão de resultados e planejamento pessoal.
-  - *SIGs*  
+  - SIGs  
         - Criados para dar suporte aos gerentes
         - Auxilia nas estratégias de negócio
         - Ex: Gerencia de resultados, controle de estoque, analise de lucro.
       
-  - *STCs* 
+  - STCs
         - Softwares utilizados por 'trabalhadores do conhecimento'
         - Sofwares voltados para específicidades de uma determinada área
        - Ex: O software do radar do avião, softwares de engenharia, digitalização de documentos.
-  - *SPTs* 
+  - SPTs 
       - A parte mais baixa da piramide
       - Monitoramento, coleta, armazenamento, processamento e disseminação das informações de transações básicas do negócio.
       - Ex: Caixa de supermercado, acompanhamento de pedidos, folhas de pagamento.
-  - *SIGEs* 
+      
+  - SIGEs
       - Sistemas que conectam duas ou mais organizações
       - Ex: Sistemas de reserva de passagens aéreas mundial é composto de vários sistemas  que pertence a diferentes companhias aéreas e agências de viagem. 
   
